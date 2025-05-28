@@ -1,0 +1,86 @@
+GPMech Terms of Service
+Effective Date: May 27, 2025
+
+Please read these Terms of Service ("Terms") carefully before using the gpmech.com website, its subdomains (e.g., gearing.gpmech.com), and any related software and hardware products provided by GPMech ("we," "us," or "our") (collectively, the "Services").
+
+By accessing or using any part of the Services, you agree to be bound by these Terms. If you do not agree to all the Terms, then you may not access the Services.
+
+1. Acceptance of Terms
+
+By creating an account, accessing, or using our Services, you confirm that you have read, understood, and agree to be bound by these Terms, including any additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms apply to all users of the Services, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.
+
+2. Eligibility
+
+You must be at least 16 years old to use our Services. By using the Services, you represent and warrant that you meet this age requirement. If you are under 16, you may not use the Services.
+
+3. Account Registration and Security
+
+You may be required to register for an account to access certain features of the Services.
+You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete.
+You are responsible for maintaining the confidentiality of your account password and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use of your password or account or any other breach of security.
+We will not be liable for any loss or damage arising from your failure to comply with this section.
+4. Use of Services
+
+License: Subject to your compliance with these Terms, GPMech grants you a limited, non-exclusive, non-transferable, revocable license to access and use the Services for your personal and commercial race vehicle dynamics purposes.
+Prohibited Uses: You agree not to use the Services:
+For any unlawful purpose or to solicit others to perform or participate in any unlawful acts.
+To violate any international, federal, provincial or state regulations, rules, laws, or local ordinances.
+To infringe upon or violate our intellectual property rights or the intellectual property rights of others.
+To harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability.
+To submit false or misleading information.
+To upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet.
+To collect or track the personal information of others.
+To spam, phish, pharm, pretext, spider, crawl, or scrape.
+For any obscene or immoral purpose.
+To interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet.
+To reverse engineer, decompile, or disassemble any part of our software or hardware.
+5. Intellectual Property
+
+All content, features, and functionality of the Services, including but not limited to software, designs, text, graphics, logos, icons, images, and their selection and arrangement, are the exclusive property of GPMech, its licensors, or other providers of such material and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+You may not copy, reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on our Services, except as generally and expressly permitted by these Terms.
+6. User-Generated Content (if applicable)
+
+If our Services allow you to post, upload, or otherwise make available content (e.g., forum posts, custom vehicle setups, feedback):
+
+You retain ownership of any intellectual property rights that you hold in that content.
+By making content available, you grant GPMech a worldwide, non-exclusive, royalty-free, transferable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, publicly perform, and publicly display such content in connection with the Services and our business, including for promoting and redistributing part or all of the Services in any media formats and through any media channels.
+You are solely responsible for the content you submit and the consequences of posting or publishing it.
+7. Purchases and Payments
+
+If you purchase software licenses or hardware products through our Services, you agree to provide current, complete, and accurate purchase and account information.
+All payments are processed by third-party payment processors. We do not store your full credit card details.
+All sales are final unless otherwise specified in a separate refund policy for specific products.
+8. Disclaimers and Limitation of Liability
+
+No Warranties: The Services are provided on an "as is" and "as available" basis, without any warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement, or course of performance. GPMech does not warrant that the Services will be uninterrupted, secure, or error-free, that defects will be corrected, or that the Services are free of viruses or other harmful components.
+Accuracy of Information: While we strive for accuracy, the information provided through our Services (e.g., Gearing Tool calculations) is for informational and theoretical purposes only. Racing is inherently dangerous, and results can vary due to numerous factors outside of our control (e.g., driver skill, track conditions, vehicle maintenance). You assume all risk and responsibility for the use of our Services and any decisions made based on the output.
+Limitation of Liability: In no event shall GPMech, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Services; (ii) any conduct or content of any third party on the Services; (iii) any content obtained from the Services; and (iv) unauthorized access, use, or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence), or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+9. Indemnification
+
+You agree to defend, indemnify, and hold harmless GPMech and its licensee and licensors, and their employees, contractors, agents, officers, and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Services, by you or any person using your account and password; b) a breach of these Terms, or c) your interaction with other users or content of the Services.
+
+10. Termination
+
+We may terminate or suspend your account and bar access to the Services immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms. If you wish to terminate your account, you may simply discontinue using the Service.
+
+11. Governing Law and Jurisdiction
+
+These Terms shall be governed and construed in accordance with the laws of the State of New York, USA, without regard to its conflict of law provisions. You agree to submit to the exclusive jurisdiction of the courts located within Buffalo, New York to resolve any dispute arising out of these Terms or the Services.
+
+12. Changes to These Terms
+
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion. By continuing to access or use our Services after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Services.
+
+13. Severability
+
+If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect.
+
+14. Entire Agreement
+
+These Terms constitute the entire agreement between us regarding our Services and supersede and replace any prior agreements we might have had between us regarding the Services.
+
+15. Contact Us
+
+If you have any questions about these Terms, please contact us:
+
+By email: gpmechatronics@gmail.com
