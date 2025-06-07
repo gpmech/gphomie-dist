@@ -1,0 +1,194 @@
+{
+  "id": "82f802a0-0c60-4498-b44a-a848d1f028f9",
+  "name": "Yamaha R1",
+  "isCollapsed": true,
+  "color": "#2229dd",
+  "gearing": {
+    "primaryDrive": {
+      "inputTeeth": "41",
+      "outputTeeth": "67",
+      "ratio": "1.634",
+      "lastModified": "teeth",
+      "id": "primary-drive",
+      "isExpanded": false
+    },
+    "gears": [
+      {
+        "number": 1,
+        "inputTeeth": "15",
+        "outputTeeth": "39",
+        "ratio": "2.600",
+        "lastModified": "teeth",
+        "id": 1747220873217,
+        "isExpanded": false
+      },
+      {
+        "number": 2,
+        "inputTeeth": "17",
+        "outputTeeth": "37",
+        "ratio": "2.176",
+        "lastModified": "teeth",
+        "id": 1747220873218,
+        "isExpanded": false
+      },
+      {
+        "number": 3,
+        "inputTeeth": "19",
+        "outputTeeth": "35",
+        "ratio": "1.842",
+        "lastModified": "teeth",
+        "id": 1747220873219,
+        "isExpanded": false
+      },
+      {
+        "number": 4,
+        "inputTeeth": "19",
+        "outputTeeth": "30",
+        "ratio": "1.579",
+        "lastModified": "teeth",
+        "id": 1747220873220,
+        "isExpanded": false
+      },
+      {
+        "number": 5,
+        "inputTeeth": "21",
+        "outputTeeth": "29",
+        "ratio": "1.381",
+        "lastModified": "teeth",
+        "id": 1747220873221,
+        "isExpanded": false
+      },
+      {
+        "number": 6,
+        "inputTeeth": "24",
+        "outputTeeth": "30",
+        "ratio": "1.250",
+        "lastModified": "teeth",
+        "id": 1747220873222,
+        "isExpanded": false
+      }
+    ],
+    "finalDrive": {
+      "inputTeeth": "16",
+      "outputTeeth": "41",
+      "ratio": "2.563",
+      "lastModified": "teeth",
+      "id": "final-drive",
+      "isExpanded": true
+    },
+    "isPrimaryTransCollapsed": true,
+    "isResultsDataCollapsed": true,
+    "totalRatios": [
+      {
+        "gear": 1,
+        "ratio": 10.889
+      },
+      {
+        "gear": 2,
+        "ratio": 9.113
+      },
+      {
+        "gear": 3,
+        "ratio": 7.714
+      },
+      {
+        "gear": 4,
+        "ratio": 6.613
+      },
+      {
+        "gear": 5,
+        "ratio": 5.784
+      },
+      {
+        "gear": 6,
+        "ratio": 5.235
+      }
+    ]
+  },
+  "motor": {
+    "rpm": [
+      2500,
+      3000,
+      3500,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      10500,
+      11000,
+      11500,
+      12000,
+      12500,
+      13000,
+      13500,
+      14000
+    ],
+    "torqueNm": [
+      61.90529,
+      68.42949,
+      71.69159,
+      70.76014,
+      74.95504,
+      75.88649,
+      73.09079,
+      72.62439,
+      73.55584,
+      75.42009,
+      85.67278,
+      94.06123,
+      102.44967,
+      103.38247,
+      101.51822,
+      101.98463,
+      101.51822,
+      100.12038,
+      100.12038,
+      97.78973,
+      94.52763,
+      90.33408,
+      85.67278,
+      80.08139
+    ],
+    "kw": [
+      16.206767005731823,
+      21.49775828368249,
+      26.276340092432083,
+      29.639938099583148,
+      35.321730413241845,
+      39.73407320481974,
+      42.097272920435735,
+      45.63124996897939,
+      50.06787203575512,
+      55.285813430608414,
+      67.28724399126412,
+      78.80055168829945,
+      91.19228691302447,
+      97.43568237159401,
+      100.99414970564183,
+      106.79805467841392,
+      111.62511283255151,
+      115.3303983103134,
+      120.57268914260037,
+      122.8861988108679,
+      123.73637818464509,
+      122.97691544023334,
+      121.11703918427543,
+      117.40544957726225
+    ]
+  },
+  "chassis": {
+    "rearTireDiameterMm": 635,
+    "vehicleMassKg": 180,
+    "riderMassKg": 80,
+    "dragAreaCda": 0.35
+  }
+}
