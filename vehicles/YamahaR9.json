@@ -16,9 +16,9 @@
     "gears": [
       {
         "number": 1,
-        "inputTeeth": "13",
+        "inputTeeth": "14",
         "outputTeeth": "36",
-        "ratio": "2.769",
+        "ratio": "2.571",
         "lastModified": "teeth",
         "id": 1748957733521,
         "isExpanded": false
@@ -82,7 +82,7 @@
     "totalRatios": [
       {
         "gear": 1,
-        "ratio": 12.512
+        "ratio": 11.615
       },
       {
         "gear": 2,
